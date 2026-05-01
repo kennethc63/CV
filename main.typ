@@ -146,7 +146,7 @@ Final-year Computer Science student at the University of Bath with hands-on expe
     Sept 2016 – July 2021
   ],
   main-column-second-row: [
-    Achieved seven grade 9s in and three grade 8s in GCSEs
+    Achieved seven grade 9s in and three grade 8s in GCSEs.
   ],
 )
 == Skills
@@ -166,7 +166,7 @@ Final-year Computer Science student at the University of Bath with hands-on expe
 
   ],
   main-column-second-row: [
-    Worked in a self-managed Agile Scrum environment where I developed new features and value for Mayden's EPR solution where accessibility and security were paramount. Used technologies such as PHP, Javascript, React and MySQL where I would not only work fullstack to build the backend architecture as well as customer facing frontend features.
+    Worked in a self-managed Agile Scrum environment where I developed new features and value for Mayden's EPR solution where accessibility and security were paramount. Utilised technologies such as PHP, Javascript, React and MySQL where I would not only work fullstack to build the backend architecture as well as customer facing frontend features.
   ],
 )
 
@@ -184,7 +184,17 @@ Final-year Computer Science student at the University of Bath with hands-on expe
 )
 
 == Projects
-//update with birdography and maybe second year AI stuff?
+
+#regular-entry(
+  [
+    #strong[#link("https://github.com/kennethc63/rust_raytracer", icon: false, if-underline: false, if-color: false)[Rust Raytracer]]
+  ],
+  [],
+  main-column-second-row: [
+    Engineered a custom ray tracer in Rust by translating and adapting foundational C++ rendering algorithms from the "Ray Tracing in One Weekend" series. Leveraged Rust's ownership model and memory safety principles to develop a highly performant rendering engine.
+  ],
+)
+
 #regular-entry(
   [
     #strong[Birdography]
@@ -194,6 +204,16 @@ Final-year Computer Science student at the University of Bath with hands-on expe
   main-column-second-row: [
     Collaborated on a year-long Software Engineering project to develop an Android app in Kotlin that motivates users to engage with nature by birdwatching. Implemented ML-based image recognition to identify birds from user photos and enable collection-building features.
 
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[#link("https://github.com/kennethc63/EmailSpamFilter", icon: false, if-underline: false, if-color: false)[Email Spam Filter]]
+  ],
+  [],
+  main-column-second-row: [
+    Engineered a custom neural network from scratch using Python and NumPy to classify emails as spam or legitimate, implementing training and classification algorithms independently without high-level frameworks like PyTorch or Keras.
   ],
 )
 
@@ -232,7 +252,7 @@ Final-year Computer Science student at the University of Bath with hands-on expe
 
 #regular-entry(
   [
-    #strong[Maze Crawler Game]
+    #strong[#link("https://github.com/kennethc63/MazeGameSurvival", icon: false, if-underline: false, if-color: false)[Maze Crawler Game]]
   ],
   [],
   main-column-second-row: [
@@ -250,10 +270,10 @@ Final-year Computer Science student at the University of Bath with hands-on expe
     #strong[General Committee Member], Bath Computer Science Society
   ],
   [
-    May 2025 – July 2027
+    April 2025 – July 2027
   ],
   main-column-second-row: [
-    Organised the Bath Computer Science Society hackathon, attracting 220+ participants and securing sponsorship from multiple industry partners. Also coordinated additional events including game jams, pub socials, and BBQs.
+    Directed the planning and execution of large-scale society events, most notably a flagship hackathon yielding 220+ attendees and multiple industry sponsorships. Cultivated a vibrant departmental community by orchestrating supplementary events such as game jams and social gatherings.
   ],
 )
 
@@ -262,10 +282,10 @@ Final-year Computer Science student at the University of Bath with hands-on expe
     #strong[Chef], Vegetarian Society
   ],
   [
-    May 2026 – July 2027
+    April 2026 – July 2027
   ],
   main-column-second-row: [
-    Coordinated weekly VegSoc meals for 40+ attendees, managing budget and logistics while maintaining 5-star hygiene standards.
+    Orchestrated weekly dining events for the Vegetarian Society catering to over 40 attendees. Managed end-to-end logistics, including strict budget oversight, menu planning, and meticulous adherence to 5-star food hygiene protocols.
   ],
 )
 
@@ -277,10 +297,7 @@ Final-year Computer Science student at the University of Bath with hands-on expe
     September 2024 – July 2025
   ],
   main-column-second-row: [
-    Working as a PAL leader my responsibilities are to coordinate sessions with my fellow PAL
-    leaders to support First Year Computer Science students in their studies from the point of view
-    of a Second Year. This has helped develop my organisation, public speaking and presentation
-    skills.
+    Coordinated and facilitated academic support sessions for first-year Computer Science students. Collaborated with co-leaders to deliver structured study materials, honing strong organizational, public speaking, and presentation skills.
   ],
 )
 
@@ -292,6 +309,10 @@ Final-year Computer Science student at the University of Bath with hands-on expe
     September 2024 – July 2025
   ],
   main-column-second-row: [
-    Helped to get first years settle in and kick start and support their student lives by providing advice about general student life, exams and housing for second year.
+    Facilitated the onboarding and integration of first-year students by providing comprehensive mentorship. Delivered practical guidance on navigating academic pressures, effective exam preparation, and managing logistics such as securing second-year accommodation.
   ],
 )
+
+== References
+
+References available upon request.

@@ -159,7 +159,7 @@ Final-year Computer Science student at the University of Bath with hands-on expe
 
 #regular-entry(
   [
-    #strong[Placment Fullstack Software Engineer], Mayden
+    #strong[Placement Fullstack Software Engineer], Mayden
   ],
   [
     July 2025 – August 2026

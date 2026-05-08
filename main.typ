@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Kenneth Cao",
   footer: context { [#emph[Kenneth Cao -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Apr 2026] ],
+  top-note: [ #emph[Last updated in May 2026] ],
   locale-catalog-language: "en",
   page-size: "a4",
   page-top-margin: 0.7in,
@@ -77,8 +77,8 @@
   entries-highlights-space-between-bullet-and-text: 0.3em,
   date: datetime(
     year: 2026,
-    month: 4,
-    day: 18,
+    month: 5,
+    day: 8,
   ),
 )
 

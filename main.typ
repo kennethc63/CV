@@ -139,7 +139,7 @@ Final-year Computer Science student at the University of Bath with hands-on expe
 
 #education-entry(
   [
-    #strong[St Anne's RC Volutary Academy]
+    #strong[St Anne's RC Voluntary Academy]
 
   ],
   [

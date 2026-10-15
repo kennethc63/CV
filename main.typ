@@ -5,7 +5,7 @@
 #show: rendercv.with(
   name: "Kenneth Cao",
   footer: context { [#emph[Kenneth Cao -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in May 2026] ],
+  top-note: [ #emph[Last updated in October 2026] ],
   locale-catalog-language: "en",
   page-size: "a4",
   page-top-margin: 0.7in,
@@ -156,6 +156,32 @@ Final-year Computer Science student at the University of Bath with hands-on expe
 - #strong[Databases:] MySQL, SQLite
 - #strong[Tools:] Git, Docker, Vim, VS Code, Jetbrains IDEs
 == Experience
+#regular-entry(
+  [
+    #strong[Casual Teaching Assistant], University of Bath
+  ],
+  [
+    October 2026 – June 2027
+
+  ],
+  main-column-second-row: [
+    Facilitated lab sessions and interactive workshops for the second-year Software Engineering module. Leveraged practical insights gained from a 13-month industry placement to mentor students through complex coursework, effectively bridging the gap between academic theory and professional software engineering practices.
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Student Ambassador], University of Bath
+  ],
+  [
+    June 2026 – June 2027
+
+  ],
+  main-column-second-row: [
+    Acted as a primary advocate for the Computer Science course, communicating effectively with prospective students and parents. Promoted the university's academic offerings by delivering compelling technical demonstrations and sharing personal experiences from the perspective of a current student.
+  ],
+)
+
 
 #regular-entry(
   [
@@ -250,21 +276,33 @@ Final-year Computer Science student at the University of Bath with hands-on expe
   ],
 )
 
-#regular-entry(
-  [
-    #strong[#link("https://github.com/kennethc63/MazeGameSurvival", icon: false, if-underline: false, if-color: false)[Maze Crawler Game]]
-  ],
-  [],
-  main-column-second-row: [
-    I made this game using the monogame framework in C\# and utilises a recursive backtracking
-    algorithm in order to generate a unique maze for the map. I also utilised an A\* algorithm in order
-    for the monsters that spawn in the game to track and follow the player after they are within
-    proximity of each other.
-  ],
-)
+// #regular-entry(
+//   [
+//     #strong[#link("https://github.com/kennethc63/MazeGameSurvival", icon: false, if-underline: false, if-color: false)[Maze Crawler Game]]
+//   ],
+//   [],
+//   main-column-second-row: [
+//     I made this game using the monogame framework in C\# and utilises a recursive backtracking
+//     algorithm in order to generate a unique maze for the map. I also utilised an A\* algorithm in order
+//     for the monsters that spawn in the game to track and follow the player after they are within
+//     proximity of each other.
+//   ],
+// )
 
 
 == Volunteer Roles
+#regular-entry(
+  [
+    #strong[Senior Peer Assisted Learning Leader], University of Bath
+  ],
+  [
+    September 2024 – July 2025
+  ],
+  main-column-second-row: [
+    Mentored and coached Peer Assisted Learning teams across the Physics and Computer Science departments, leveraging prior facilitation experience to elevate academic support. Demonstrated exceptional time management by balancing this senior leadership role with rigorous academic studies, a Teaching Assistant position, and active committee duties in multiple university societies.
+  ],
+)
+
 #regular-entry(
   [
     #strong[General Committee Member], Bath Computer Science Society
